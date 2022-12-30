@@ -1,8 +1,5 @@
 
 
-COMPILING:
-Download all source files, launch builder and fill in all gaps
-
 #Features
 
 ⭐️ Builder :
@@ -102,6 +99,6 @@ Download all source files, launch builder and fill in all gaps
 🔸 .Net Framework 4.5 [Controller]
 🔸 .NET Framework 4.0 [Client]
 
-
+Please be carefull this RAT is maybe backdoored.
 
 
